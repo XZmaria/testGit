@@ -1,6 +1,11 @@
 public class test {
 
-    public String main() {
-        return "string";
+
+
+
+    public static void main(String[] args) {
+        System.out.println("hello");
     }
+
+
 }
